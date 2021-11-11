@@ -1,5 +1,5 @@
-# hello-world
-C++ hello world program - beginners
+//hello-world
+// C++ hello world program - beginners
 
 #include <iostream>
 using std::cout;
